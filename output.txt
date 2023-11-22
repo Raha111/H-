@@ -1,0 +1,99 @@
+Import Statement
+
+Single line comment
+Multi line comment
+!!!Error: Variable "a" has not been declared before assignment.
+
+FOR LOOP has started
+Loop position: 0
+Loop position: 1
+Loop position: 2
+Loop position: 3
+Loop position: 4
+For loop executed successfully!
+
+Function Defined Successfully!!!
+
+Variable "ab" has been declared
+Variable type -> Integer
+Variable "tt" has been declared
+Variable type -> Integer
+Value Assigned to ab = 30
+Print the value--->"Hi, This is a function"
+Calculating Sine value
+The Value of the expression is: 0.500001
+Function Defined Successfully!!!
+
+Variable "int_var" has been declared
+Variable type -> Integer
+!!!Error: Variable "int_var" has already been declared.
+Variable type -> Integer
+Variable "float_var" has been declared
+Variable type -> Float
+Variable "doub_var" has been declared
+Variable type -> Double
+Variable "char_var" has been declared
+Variable type -> Character
+Variable "str_var" has been declared
+Variable type -> String
+Variable "int2" has been declared
+Variable type -> Integer
+Variable "a" has been declared
+Variable type -> Integer
+!!!Error: Variable "b" has already been declared.
+Variable type -> Integer
+Variable "d" has been declared
+!!!Error: Variable "c" has already been declared.
+Variable type -> Integer
+Value Assigned to raha = 111
+Variable type -> Float Constant
+!!!Error: can't Reassign to a Constant variable
+Value Assigned to int_var = 2
+Value Assigned to int2 = 3
+Value Assigned to float_var = 2.4
+Value Assigned to doub_var = 3.47387
+Value Assigned to char_var = a
+Value Assigned to str_var = "hsaah"
+Value Assigned to int2 = 10
+Value Assigned to float_var = 12
+Value Assigned to a = 10
+Value Assigned to b = 5
+!!!Error: Variable "pbb" has not been declared before assignment.
+Print the value--->15
+Print the value--->5
+Print the value--->50
+Print the value--->2
+Print the value--->10
+Print the value--->5
+Print the value--->"Hi, This is my First compiler project"
+Single line comment
+
+Calculating Square Root
+The Value of the expression is: 0
+Value Assigned to c = 15
+Variable "pp" has been declared
+Variable type -> Integer
+Inside If Block 
+Value Assigned to c = 50
+Inside If Block 
+Value Assigned to a = 55
+
+FOR LOOP has started
+Loop position: 0
+Loop position: 1
+Loop position: 2
+Loop position: 3
+Loop position: 4
+For loop executed successfully!
+
+Print the value--->2
+
+WHILE LOOP has started
+Loop position: 0
+Loop position: 1
+Loop position: 2
+While loop executed successfully!
+
+Function "sum" Called here.
+Function "peep" Called here.
+Valid main function

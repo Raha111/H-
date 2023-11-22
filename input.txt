@@ -1,0 +1,97 @@
+<import> Library </import>
+
+<com> this is a single line comment
+
+<mcom> 
+this is a
+multi line comment
+</mcom> 
+
+func sum (
+	<for> 
+	<count> 5 </count>
+		a <=> b <+> c;
+    </for> 
+)
+
+func peep [ <i> ab </i> , <i> tt </i> ] (
+    ab <=> 30;
+	<print> "Hi, This is a function" </print>
+	<sin> ab </sin>;
+)
+
+<main>
+
+<i> int_var </i>
+<i> int_var </i>
+<f> float_var </f>
+<d> doub_var </d>
+<c> char_var </c>
+<s> str_var </s>
+
+<i> int2 </i>
+<i> a </i>
+<i> b </i>
+<i> c , d </i>
+
+<const> <f> raha </f> <=> 111;
+
+raha <=> 112;
+
+int_var <=> 2;
+int2 <=> 3;
+float_var <=> 2.4;
+
+doub_var <=> 3.47387489;
+char_var <=> 'a';
+str_var <=> "hsaah";
+
+int2 <=> int_var <*> 5;
+
+float_var <=> int_var <+> int2;
+
+a <=> 10;
+b <=> 5;
+
+pbb <=> 2;
+
+<print> a <+> b </print>
+<print> a <-> b </print>
+<print> a <*>b </print>
+<print> a </> b </print>
+<print> a  </print>
+<print> b </print>
+<print> "Hi, This is my First compiler project" </print>
+
+<com> this is a if-else block
+<root> aa </root>;
+
+<condition> a <>> b </condition>
+		<true>
+			c <=> a <+> b;
+			<condition> a </condition>
+			<true>
+				<i> pp </i>
+			</true>
+		</true>
+		<false>
+			c <=> a <*> b;
+		</false>
+<for> 
+	<count> 5 </count>
+		a <=> b <+> c;
+</for>
+
+<while> <condition> a <>> b </condition>
+    <do>
+		<count> 3 </count>
+        <print>int_var</print>
+    </do>
+</while>
+
+<fun> sum </fun>
+
+<fun> peep(a,b) </fun>
+
+</main>
+
